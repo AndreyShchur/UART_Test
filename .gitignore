@@ -54,7 +54,7 @@ dkms.conf
 #Keil
 DebugConfig/
 Objects/
-.uvguix.Andrey
-.uvoptx
-.uvprojx
-.scvd
+*.uvguix.Andrey
+*.uvoptx
+*.uvprojx
+*.scvd
